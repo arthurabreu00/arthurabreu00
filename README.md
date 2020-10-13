@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Tavares</h1>
-<h3 align="center">Developer back-endPHP and NodeJS</h3>
+<h3 align="center">Developer back-end PHP and NodeJS</h3>
 
-- 🔭 [Alpes One](http://alpes.one/)
+- 🔭 I'm working to [Alpes One](http://alpes.one/)
 
 - 🌱 I’m currently learning **Laravel, NestJS**
 
