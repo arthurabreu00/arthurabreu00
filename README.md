@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arthurabre00@gmail.com**
 
-- 📄 Know about my experiences [I am a back-end developer, my career is currently focused on technologies from the PHP programming language. I worked with Magento and Wordpress, and currently I work with Laravel. But I am always studying some technology written in javascript / Node JS, as you can see through my public repositories](I am a back-end developer, my career is currently focused on technologies from the PHP programming language. I worked with Magento and Wordpress, and currently I work with Laravel. But I am always studying some technology written in javascript / Node JS, as you can see through my public repositories)
+- 📄 Know about my experiences I am a back-end developer, my career is currently focused on technologies from the PHP programming language. I worked with Magento and Wordpress, and currently I work with Laravel. But I am always studying some technology written in javascript / Node JS, as you can see through my public repositories
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
