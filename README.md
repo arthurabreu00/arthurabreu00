@@ -3,7 +3,7 @@
 
 - 🔭 I'm working to [Alpes One](http://alpes.one/)
 
-- 🌱 I’m currently learning **Laravel, NestJS**
+- 🌱 I’m currently learning **Laravel, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://arthurtavares.dev/](https://arthurtavares.dev/)
 
