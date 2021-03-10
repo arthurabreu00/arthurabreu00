@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arthurtavares.dev/](https://arthurtavares.dev/)
 
-- 📫 How to reach me **arthurabre00@gmail.com**
+- 📫 How to reach me **hello@arthurtavares.dev**
 
 
 
