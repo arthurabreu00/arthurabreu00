@@ -12,9 +12,9 @@
 
 
 - 📄 Know about my experiences I am a back-end developer, my career is currently focused on technologies from the PHP programming language. I worked with Magento and Wordpress, and currently I work with Laravel. But I am always studying some technology written in javascript / Node JS, as you can see through my public repositories
-![](https://github-readme-stats.vercel.app/api?username=arthurtavaresdev&show_icons=true&theme=dracula)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arthurtavaresdev&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtavaresdev&hide=css,html&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=arthurtavaresdev&theme=dracula)![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arthurtavaresdev&show_icons=true&theme=dracula)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurtavaresdev&hide=css,html&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
